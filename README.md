@@ -6,6 +6,7 @@
 
 TODO:
 
+- Python
 - C#
 - Java
 - Elixir
