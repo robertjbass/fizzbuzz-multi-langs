@@ -11,14 +11,14 @@ TODO:
 - Java
 - Elixir
 - Ruby
-- C
 - Deno
 - Rust
 
 COMPLETED:
 
-- D
+- C
 - C++
+- D
 - Golang
 - JavaScript
 - TypeScript
