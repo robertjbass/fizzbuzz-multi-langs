@@ -13,12 +13,13 @@ TODO:
 - Ruby
 - C
 - Deno
+- Rust
 
 COMPLETED:
 
+- D
 - C++
 - Golang
 - JavaScript
 - TypeScript
 - Shell
-- Rust
