@@ -6,7 +6,6 @@
 
 TODO:
 
-- Python
 - C#
 - Java
 - Elixir
@@ -21,5 +20,7 @@ COMPLETED:
 - D
 - Golang
 - JavaScript
+- Perl
+- Python
 - TypeScript
 - Shell

@@ -1,3 +1,3 @@
 #! /bin/bash
 
-node fb.js
+node fizzbuzz.js
